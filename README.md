@@ -18,4 +18,4 @@ The idea is to use the principle of separation of concerns to move the business 
 <img src="https://i.ibb.co/x2kR9H8/8ujhfk47a3ciluri0wfx.png" >
 
 ## System architecture 🥪
-<img src="https://i.ibb.co/wpBQNcG/Dept-drawio.png" >
+<img src="https://i.ibb.co/zXR6WfC/Dept-drawio-1.png" >
