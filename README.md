@@ -15,7 +15,7 @@
 ## 3 Layer architecture 🥪
 The idea is to use the principle of separation of concerns to move the business logic away from the node.js API Routes.
 
-<img src="https://ibb.co/S6j9Yr7" >
+<img src="https://i.ibb.co/x2kR9H8/8ujhfk47a3ciluri0wfx.png" >
 
 ## System architecture 🥪
-<img src="https://ibb.co/QYpHFDS" >
+<img src="https://i.ibb.co/wpBQNcG/Dept-drawio.png" >
