@@ -1,7 +1,7 @@
 {
     "name": "deptagency-backend",
     "version": "0.0.1",
-    "description": "Dept Agency Backend Case Assignment API",
+    "description": "Dept Agency Full Stack Case Assignment API",
     "main": "index.js",
     "type": "module",
     "scripts": {
