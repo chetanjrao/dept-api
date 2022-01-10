@@ -35,9 +35,9 @@ async function initServer() {
     /**
      * Initiate the server
      */
-    app.listen(process.env.PORT, () => {
+    app.listen(process.env.PORT || 3000, () => {
         // eslint-disable-next-line no-undef
-        console.log(`Listening at ${process.env.PORT}`);
+        console.log(`Listening at ${process.env.PORT || 3000}`);
     });
 }
 
