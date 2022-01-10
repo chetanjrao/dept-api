@@ -1,0 +1,13 @@
+{
+    "globals": {
+        "describe": "readonly",
+        "test": "readonly",
+        "expect": "readonly",
+        "process": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "sourceType": "module"
+    },
+    "extends": "eslint:recommended"
+}
